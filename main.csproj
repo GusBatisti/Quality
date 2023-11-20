@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp6.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <!-- Especifique a classe com o método Main como objeto de inicialização -->
+    <StartupObject>Jogo_poo2.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>
